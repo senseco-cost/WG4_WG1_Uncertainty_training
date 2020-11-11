@@ -12,7 +12,7 @@ The structure and content is as follows:
 Matlab function details, data and relevant presentations follow below.
 
 
-![Creating L Realisations Diagram](/_img/Creating L Realisations Diagram.png)
+![Creating L Realisations Diagram](/_img/Creating_L_Realisations_Diagram.png)
 
 
 
