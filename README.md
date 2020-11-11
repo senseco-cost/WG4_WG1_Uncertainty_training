@@ -7,15 +7,21 @@ The structure and content is as follows:
 
 - Schedule and Presentations: Includes the course schedule and the presentation that are explaining the tasks that are then implemented in the Matlab code.
 - ExampleData: Data used by the provided Matlab code
-- MatlabCode: Example Matlab code, covering the example and exercises of this training school
+- Matlab Code: Example Matlab code, covering the example and exercises of this training school
 
 Matlab function details, data and relevant presentations follow below.
 
 
 
-## Presentation:  Read the spectrometer data and determine statistics.pdf
+## Read the spectrometer data and determine statistics
 
-** Data files:
+**Presentations:**
+| File name                                                   | Comment                                                                | 
+| :---------------------------------------------------------- | :--------------------------------------------------------------------- | 
+| Read the spectrometer data and determine statistics.pdf
+
+
+**Data files:**
 | File name                                                   | Comment                                                                | 
 | :---------------------------------------------------------- | :--------------------------------------------------------------------- | 
 | 10000fL_15ms.xlsx
@@ -24,19 +30,26 @@ Matlab function details, data and relevant presentations follow below.
 | 5fL_15ms.xlsx
 | Dark15ms.xlsx
 
-** Matlab code: (note: the pathnames need adjusting to your local machine!)
+**Matlab code:**
 
-ReadSpectrometerDataMeanStd.m
-
-
-=======================
-## Presentations: 
-
-Intro to Monte Carlo and Application to RAD CAL.pdf
-Radiometric Calibration Coefficient Determination.pdf
+| File name                                                   | Comment                                                                | 
+| :---------------------------------------------------------- | :--------------------------------------------------------------------- | 
+| ReadSpectrometerDataMeanStd.m								| note: the pathnames need adjusting to your local machine!	|
 
 
-** Data files (see also last slide of presentation): 
+
+## Presentations: Radiometric Calibration Coefficient and Uncertainty Propagation via Monte Carlo
+
+**Presentations:**
+| File name                                                   | Comment                                                                | 
+| :---------------------------------------------------------- | :--------------------------------------------------------------------- | 
+| Intro to Monte Carlo and Application to RAD CAL.pdf
+| Radiometric Calibration Coefficient Determination.pdf
+
+
+
+
+**Data files:** (see also last slide of presentation): 
 
 
 L_Sphere.mat, STD_DN.mat, DN_L_CAL.mat, uL.mat		Input files for the code
