@@ -1,6 +1,6 @@
-# WG4_Uncertainty_training
+# WG4 Uncertainty Training
 
-This is the code and data base for a course on uncertainty, calibration and traceability held on Romania at CETAL in fall 2019.
+This is the code and data for a course on uncertainty, calibration and traceability held on Romania at CETAL in fall 2019.
 
 
 The structure and content is as follows:
