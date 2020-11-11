@@ -41,7 +41,7 @@ Matlab function details, data and relevant presentations follow below.
 
 
 
-## Presentations: Radiometric Calibration Coefficient and Uncertainty Propagation via Monte Carlo
+## Radiometric Calibration Coefficient and Uncertainty Propagation via Monte Carlo
 
 **Presentations:**
 | File name                                                   | Comment                                                                | 
