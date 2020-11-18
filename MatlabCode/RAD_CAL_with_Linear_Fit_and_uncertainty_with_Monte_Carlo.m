@@ -476,7 +476,7 @@ if run_sim
     u_offset = std(offsets);
 
     % calculat correlation between gain and offset and their combined uncertainty
-    R = corrcoef(gain, offset);
+    R = corrcoef(gains, offsets);
     u_gain_offset = ((u_gain) .* (u_offset) .* R(2,1))';
 
 
