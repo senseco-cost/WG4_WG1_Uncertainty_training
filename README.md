@@ -75,3 +75,32 @@ Matlab function details, data and relevant presentations follow below.
 
 
 
+## Uncertainty propagtion using radiative transfer models
+
+**Presentations:**
+| File name                                                   | Comment                                                                | 
+| :---------------------------------------------------------- | :--------------------------------------------------------------------- | 
+| RTM_and_uncertainty propagation_Session_1_RTM.pdf
+| RTM_and_uncertainty propagation_Session_2_RTM.pdf
+| RTM_and_uncertainty propagation_Ex_1.pdf
+| RTM_and_uncertainty propagation_Ex_2.pdf
+
+
+**Data files:**
+| File name                                                   | Comment                                                                | 
+| :---------------------------------------------------------- | :--------------------------------------------------------------------- | 
+| Ex1_TableLeafParam.csv
+| Ex2_BOAirradiance.csv
+| Ex2_TableLAI.csv
+| Ex2_TableLeafParam.csv
+| Soil.csv
+
+**Matlab code:**
+
+| File name                                                   | Comment                                                                | 
+| :---------------------------------------------------------- | :--------------------------------------------------------------------- | 
+| RTM_and_uncertainty propagation_Ex_1_solved.m								| note: you need to download PROSPECT-D model separately	|
+| normrnd_truncated.m								| 	|
+| RTM_and_uncertainty propagation_Ex_2_solved.m								| note: you need to download PROSPECT-D model separately.	|
+
+
