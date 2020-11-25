@@ -15,6 +15,7 @@
 close all
 clear all
 clc
+% % Download from http://teledetection.ipgp.jussieu.fr/prosail/
 addpath('../PROSAIL_D_MATLAB_2017')
 %% Load data
 [num,txt] = xlsread(['Ex1_TableLeafParam.csv']);
